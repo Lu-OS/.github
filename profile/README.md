@@ -1,6 +1,21 @@
-## Hi there 👋
+# Hi there 👋
 
-This is all still in progress so please stand by 
+LuOS is a software company that focuses on developing lightweight code and OS solutions.
+
+Check out what we have planned:
+
+### Current Projects
+  1. LuCode - A lightweight open source programming language 
+
+### Future Project
+  1. LuCodeX - A fully functional high level programming language 
+  2. LUIDE - A lightweight IDE for LuCode and maybe for python
+  3. LuNix - A lightweight operating system
+  4. LuVision - This is a dataset and software for live image recognition
+  
+
+
+
 <!--
 
 **Here are some ideas to get you started:**
