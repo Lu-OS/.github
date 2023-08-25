@@ -10,7 +10,7 @@ Check out what we have planned:
 ### Future Project
   1. LuCodeX - A fully functional high level programming language 
   2. LUIDE - A lightweight IDE for LuCode and maybe for python
-  3. LuNix - A lightweight operating system
+  3. LiLi - A lightweight operating system
   4. LuVision - This is a dataset and software for live image recognition
   
 
